@@ -1,4 +1,4 @@
-# Project 1: A Transfer Learning on the Stanford Dogs Dataset
+# Project: A Transfer Learning on the Stanford Dogs Dataset
 
 ## Objective
 The primary objective of this project is to train neural network models to predict dog breeds through transfer learning, combining deep learning models with CNN architectures as their base.
